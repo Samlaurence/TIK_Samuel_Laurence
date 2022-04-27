@@ -1,0 +1,24 @@
+#include <iostream>
+#include <math.h>
+using namespace std;
+
+int main() {
+    float a = sqrt(16);//menghitung akar kuadrat
+    float b = cbrt(27);//menghitung akar kubik
+    float c = pow(4,2);//pangkat
+    float d = sin(180);// sin
+    float e = cos(180);// cos
+    float f = tan(180);// tan
+    float g = round(d);
+    //tambahkan dan tampilkan d=sin e=cos f=tan 
+    
+    cout<<a<<endl;
+    cout<<b<<endl;
+    cout<<c<<endl;
+    cout<<d<<endl;
+    cout<<e<<endl;
+    cout<<f<<endl;
+    cout<<g<<endl;
+    #include <iostream>
+
+}
